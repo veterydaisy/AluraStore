@@ -8,6 +8,6 @@ En este proyecto encontraras un informe detallado: con la introducción , explic
 
 A continuación, te dejo los links, del informe y el cuaderno de colab.Te invito a que lo leas y espero pueda servirte de ayuda. saludos 
 <ul>
-<li><a href>Informe</a></li>
+<li><a href="https://github.com/veterydaisy/AluraStore/blob/main/informe_final_alura_store.docx">Informe</a></li>
 <li><a href="https://colab.research.google.com/github/veterydaisy/AluraStore/blob/main/AluraStoreLatam.ipynb">Colab</a></li>
 </ul>
